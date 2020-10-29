@@ -1,3 +1,5 @@
+# new line
+# second new line
 """
 Django settings for garage_main project.
 
